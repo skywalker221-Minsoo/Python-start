@@ -1,0 +1,28 @@
+git은 version control program(형상관리프로그램으로 번역됨.)
+
+github라는 사이트에 각자의 작업물으로 올리면서
+프로젝트를 관리해준다.
+
+
+github는 ms에 인수됨.
+
+
+VCS Operations를 클릭하여
+Create Git Repository를 선택
+=>github에 올릴 프로젝틀 지정함.
+  (우리는  파이썬 연습용 여러 프로젝트의 저장소 역할을 하게 할 예정이므로
+  workspace인 pycharporjects를 설정함.)
+
+git에 설치되어있지 않다고 나와서 , git설치중임.
+github에 연결하려면 git설정과 처리를 하기 위한 git프로그램을 별도로 설치해야 함.
+
+파이참에서는 VCS설정 중 요구하므로
+순서대로 설치하면 git을 window에 설치하게 됨.
+
+- 처음 github에 올린 후, 다음 부터는 변경된 내용을 자동 인식하여
+  git처리를 파이참에서 요구함.
+  확인 후, github에 올려야(staging) 하는 것들만 선택 후(commit),
+  github에 올리면 됨.(push)
+
+
+
