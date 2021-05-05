@@ -1,2 +1,3 @@
-# python-project
-## with education and study
+# Python programming
+## with education and python-study
+## including term-projects
